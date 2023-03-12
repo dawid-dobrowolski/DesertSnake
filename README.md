@@ -1,20 +1,3 @@
-<!-- TABLICA ZAWARTOŚCI -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">O Projekcie</a>
-      <ul>
-        <li><a href="#built-with">Stos Technologiczny</a></li>
-      </ul>
-    </li>
-    <li>
-    <li><a href="#usage">Usage</a></li>
-  </ol>
-</details>
-
-
-
 <!-- O PROJEKCIE -->
 ## O Projekcie
 
